@@ -1,7 +1,7 @@
  
-## 🏆 Goal: Win a Hackathon Using AI Tools (No Coding Required)
+## Hackathon AI Tools 
 
-### ✅ Key Principles:
+###  Key Principles:
 - Use AI to **generate ideas**
 - Use AI to **design UI/UX**
 - Use AI to **generate full-stack code**
